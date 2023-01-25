@@ -1,0 +1,48 @@
+
+body {
+    background-color: #D5E1EF;
+}
+.white-background {
+    position: relative;
+    margin: 80px auto;
+    padding: 0;
+    background-color: white;
+    border: solid white;
+    border-radius: 17px;
+    width: 330px;
+    height: 500px;
+    text-align: center;
+}
+
+.qr-code {
+    position: relative;
+    margin: 15px auto;
+    height: 300px;
+    width: 300px;
+    border-radius: 10px;
+}
+
+.attribution {
+    position: relative;
+    text-align: center;
+}
+h1 {
+    font-size: 20px;
+    color: #2D3252;
+    margin-left: 8px;
+    margin-right: 8px;
+    margin-top: 5px;
+}
+
+p {
+    color: darkgray;
+    font-size: 15px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+.text-in-white {
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 20px;
+    margin-right: 20px;
+}
